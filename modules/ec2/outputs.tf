@@ -9,3 +9,7 @@ output "ami_id" {
 output "ami_name" {
   value = data.aws_ami.amazon_linux.name
 }
+
+output "public_ip" {
+  value = aws_instance.this.public_ip
+}
