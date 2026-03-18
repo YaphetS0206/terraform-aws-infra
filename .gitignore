@@ -16,3 +16,7 @@ crash.log
 
 # Logs
 *.log
+
+tfplan
+
+.terraform.lock.hcl
