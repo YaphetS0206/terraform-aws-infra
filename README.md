@@ -52,4 +52,7 @@ El flujo del proyecto es:
 	•	🔒 No se sube el archivo terraform.tfstate
 	•	📦 Separación por entornos
 	•	🔁 Uso de recursos dinámicos (AMI)
+	•	📦 Hello world en el EC2 
+	• 	🚀 Abriendo puertos a que se pueda ver por internet el contenido.
+	•   🔒 Configuración de security Groups para su uso.
 
